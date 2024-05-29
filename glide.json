@@ -1,0 +1,19 @@
+[
+  {
+    "kind": "column",
+    "name": "FirstString",
+    "description": "Returns the first text string in a comma-separated series.",
+    "author": "Your Name <your.email@example.com>",
+    "params": [
+      {
+        "name": "string",
+        "displayName": "String",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
+
